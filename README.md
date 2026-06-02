@@ -1,6 +1,6 @@
 # Hi, ich bin Maximilian 👋
 
-Ich bin ein Hobby-Entwickler und beschäftige mich gerne mit praktische Web-Apps und nützliche Tools – von der Feuerwehr bis zur Leichtathletik-Statistik. Meine Projekte entstehen meistens dann, wenn ich ein Problem sehe und denke: *„Das könnte ich doch einfach selbst bauen."*
+Ich bin ein Hobby-Entwickler und beschäftige mich gerne mit praktischen Web-Apps und nützlichen Tools – von der Feuerwehr bis zur Leichtathletik-Statistik. Meine Projekte entstehen meistens dann, wenn ich ein Problem sehe und denke: *„Das könnte ich doch einfach selbst bauen."*
 
 
 
