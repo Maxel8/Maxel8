@@ -2,7 +2,7 @@
 
 Ich bin ein Hobby-Entwickler und beschäftige mich gerne mit praktische Web-Apps und nützliche Tools – von der Feuerwehr bis zur Leichtathletik-Statistik. Meine Projekte entstehen meistens dann, wenn ich ein Problem sehe und denke: *„Das könnte ich doch einfach selbst bauen."*
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -11,7 +11,7 @@ Ich bin ein Hobby-Entwickler und beschäftige mich gerne mit praktische Web-Apps
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+
 
 ## 🚀 Projekte
 
@@ -39,14 +39,7 @@ Eine Web-Galerie rund ums Thema Blaulicht & Feuerwehr.
 Eine Sammlung kleiner Web-Utilities und Helferlein.
 `HTML` `CSS` `JavaScript`
 
----
 
-## 📊 GitHub Stats
-
-![Maxel8's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxel8&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxel8&layout=compact&theme=default&hide_border=true)
-
----
 
 ## 📬 Kontakt
 
