@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, ich bin Maximilian 👋
 
-<!--
-**Maxel8/Maxel8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin ein Hobby-Entwickler und beschäftige mich gerne mit praktische Web-Apps und nützliche Tools – von der Feuerwehr bis zur Leichtathletik-Statistik. Meine Projekte entstehen meistens dann, wenn ich ein Problem sehe und denke: *„Das könnte ich doch einfach selbst bauen."*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🚀 Projekte
+
+### 🔥 [JF-Tutor](https://github.com/Maxel8/JF-Tutor)
+Lern- und Ausbildungsprogramm für Jugendfeuerwehren – basierend auf hessischen Vorschriften. Eine Progressive Web App (PWA), die offline funktioniert und Jugendlichen die Feuerwehrausbildung erleichtert.
+`HTML` `CSS` `JavaScript` `PWA`
+
+### 🏃 [LAT-python](https://github.com/Maxel8/LAT-python)
+Python-Tool zur Verwaltung und Analyse von persönlichen Leichtathletik-Zeiten, Bestleistungen und Trainingsdaten. Für alle, die ihre Fortschritte lieber selbst tracken als in einer fremden App.
+`Python`
+
+### 🎮 [QuestDo](https://github.com/Maxel8/QuestDo)
+Eine gamifizierte Challenge-Plattform: Aufgaben erledigen, Punkte sammeln, Fortschritt mit Freunden teilen. Weil ein bisschen Spielmechanik den Alltag motivierender macht.
+`HTML` `CSS` `JavaScript`
+
+### 🧮 [Mathe-Macher](https://github.com/Maxel8/Mathe-Macher)
+Ein einfaches Mathe-Lernprogramm im Browser.
+`HTML` `CSS` `JavaScript`
+
+### 🔵 [blaulicht-galerie](https://github.com/Maxel8/blaulicht-galerie)
+Eine Web-Galerie rund ums Thema Blaulicht & Feuerwehr.
+`HTML` `CSS`
+
+### 🧰 [tool-kit](https://github.com/Maxel8/tool-kit)
+Eine Sammlung kleiner Web-Utilities und Helferlein.
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 📊 GitHub Stats
+
+![Maxel8's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxel8&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxel8&layout=compact&theme=default&hide_border=true)
+
+---
+
+## 📬 Kontakt
+
+Du hast Fragen zu einem meiner Projekte oder möchtest einfach Hallo sagen? Schreib mir gerne über [GitHub Issues](https://github.com/Maxel8) oder meld dich direkt.
+
+---
+
+<sub>Made with ❤️</sub>
