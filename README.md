@@ -43,8 +43,7 @@ Eine Sammlung kleiner Web-Utilities und Helferlein.
 
 ## 📬 Kontakt
 
-Du hast Fragen zu einem meiner Projekte oder möchtest einfach Hallo sagen? Schreib mir gerne über [GitHub Issues](https://github.com/Maxel8) oder meld dich direkt.
-
+Du hast Fragen zu einem meiner Projekte oder möchtest einfach Hallo sagen? Schreib mir gerne!
 ---
 
 <sub>Made with ❤️</sub>
